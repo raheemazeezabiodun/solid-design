@@ -21,6 +21,6 @@ class Discount:
 
 discount = Discount()
 student = {
-    'school': 'Harvard'
+    'school': 'Harvard University'
 }
 print(discount.calculate_discounted_fee(student))
